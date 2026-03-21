@@ -3,7 +3,3 @@ __pycache__/
 *.pyc
 .env
 .DS_Store
-
-# Optional (if files are large)
-saved_models/*.pth
-data/*.pkl
